@@ -11,4 +11,4 @@ spec:
     protocol: TCP
   selector:
     app: go-web-app
-  type: ClusterIP
+  type: NodePort
